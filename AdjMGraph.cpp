@@ -10,7 +10,6 @@ void ListInitiate(SeqList *L){
 
 int ListLength(SeqList L){
     return L.size ;
-
 }
 
 int ListInsert(SeqList *L, int i, DataType x){
